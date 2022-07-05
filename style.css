@@ -1,0 +1,94 @@
+.fotoPerfil {
+    height: 200px;
+    width: 200px;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.corPrimaria {
+    background-color: #b379ec;
+   
+}
+
+.corSecudaria{
+    background-color: #661ab3;
+    color: white;
+}
+a.btn:hover{
+    background-color: #1a062d;
+    color: white;
+}
+p{
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: black;
+
+}
+
+.icones{
+    padding-left: 5px;
+}
+
+.titulosBrancos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    background-color: transparent;
+}
+
+.titulosRoxos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(32, 4, 58);
+    background-color: transparent;
+}
+
+.textoBranco{
+    color: white !important;
+    
+}
+
+.textoGrey{
+    color: rgba(255, 255, 255, 0.801);
+}
+
+.textoRoxo{
+    color: rgb(32, 4, 58);
+}
+
+.contato{
+    padding: 2rem;
+}
+
+.textoFooter{
+    color: white;
+    font-size: 1.2rem;
+    padding-top: 2rem;
+}
+
+.link {
+    color:  rgb(57, 161, 247);
+}
+
+.link:hover{
+   color: rgb(13, 4, 134);
+   text-decoration: none;
+}
+
+.btnProjeto{
+    border-color: rgb(32, 4, 58);
+    background-color: transparent;
+    color: rgb(32, 4, 58);
+}
+
+.btnProjeto:hover{
+    color: white;
+    background-color: rgb(32, 4, 58);
+}
+
+
