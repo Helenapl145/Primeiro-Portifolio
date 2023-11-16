@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Meu primeiro portifólio feito de forma básica para demostrar alguns projetos feitos por mim.
 
-- [Visite o projeto online]( hhttps://helenapl145.github.io/Primeiro-Portifolio/)
+- [Visite o projeto online](https://helenapl145.github.io/Primeiro-Portifolio/)
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
